@@ -12,8 +12,7 @@ Currently studying towards an M.Sc. in Mathematics at the Hebrew University of J
   Its crown feature is comparing keys by value rather than reference. 
 
 #### 🚀 Notable Projects
-- [agrippa](https://github.com/nitzanhen/agrippa), a CLI for generating front-end component boilerplate automatically.  
-  There's a lot of improvements and features I'm still looking forward to implement in it, most notably to improve the [VSCode extension](https://github.com/nitzanhen/agrippa-vscode) and simplify the API.
+- [agrippa](https://github.com/nitzanhen/agrippa), a CLI for generating front-end component boilerplate automatically.
 - [pips](https://github.com/nitzanhen/pips), a tiny library providing type-safe pipes with an elegant syntax.  
   
 #### 🧪 Side Experiments
