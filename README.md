@@ -18,11 +18,8 @@ Currently studying towards an M.Sc. in Mathematics at the Hebrew University of J
   
 #### 🧪 Side Experiments
 - [crossword](https://github.com/nitzanhen/crossword), a Go project that generates crosswords from an arbitrary corpus.  
-  The motivation for this project originates from a vocabulary-building, language-agnostic app that I'd like to create someday.
 - [rubiks-cube](https://github.com/nitzanhen/rubiks-cube), a Three.js project that renders and animates a rubik's cube.  
-  The project originates from a side project I had to create an algorithm for solving a Rubik's cube, but I never got around to that part (yet hope to someday).
-- [color-projection](https://github.com/nitzanhen/color-projection), a project showcasing a fun application of Linear Algebra, and orthogonal projection in particular.  
-  I made it for my students at the Linear Algebra workshop I instructed last year.
+- [color-projection](https://github.com/nitzanhen/color-projection), a project showcasing a fun application of Linear Algebra, and orthogonal projection in particular.
 
 #### 📫 Let's Connect!
 - LinkedIn: [nitzan-hen](https://www.linkedin.com/in/nitzan-hen/)
