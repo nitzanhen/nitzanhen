@@ -8,8 +8,6 @@ Currently studying towards an M.Sc. in Mathematics at the Hebrew University of J
 #### 🌱 Current focus
 - [rhode](https://github.com/nitzanhen/rhode-releases), a knowledge-building companion app for mathematicians.  
   This is a desktop app built with Electon, TypeScript, React and CodeMirror. 
-- [objectmap.js](https://github.com/nitzanhen/objectmap.js), a HashMap implementation for the modern JavaScript world.  
-  Its crown feature is comparing keys by value rather than reference. 
 
 #### 🚀 Notable Projects
 - [agrippa](https://github.com/nitzanhen/agrippa), a CLI for generating front-end component boilerplate automatically.
