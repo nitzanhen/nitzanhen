@@ -21,5 +21,4 @@ Currently studying towards an M.Sc. in Mathematics at the Hebrew University of J
 #### 📫 Let's Connect!
 - LinkedIn: [nitzan-hen](https://www.linkedin.com/in/nitzan-hen/)
 - Dev.to: [nitzanhen](https://dev.to/nitzanhen)
-- Twitter: [@NitzanHen](https://twitter.com/NitzanHen) (presently not very active) 
 - Mail: code at nitzanhen dot net.
