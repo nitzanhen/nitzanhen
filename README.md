@@ -6,8 +6,8 @@ I'm also enthusiastic about open source software, learning, teaching, writing an
 Currently studying towards an M.Sc. in Mathematics at the Hebrew University of Jerusalem.
 
 #### 🌱 Current focus
-- [rhode](https://github.com/nitzanhen/rhode-releases), a knowledge-building companion app for mathematicians.  
-  This is a desktop app built with Electon, TypeScript, React and CodeMirror. 
+- [rhode](https://github.com/nitzanhen/rhode-releases), a knowledge-building companion for mathematicians.
+This project is still in early stages - I have huge aspirations for it.
 
 #### 🚀 Notable Projects
 - [agrippa](https://github.com/nitzanhen/agrippa), a CLI for generating front-end component boilerplate automatically.
